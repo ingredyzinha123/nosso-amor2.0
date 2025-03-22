@@ -1,0 +1,48 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: #fbe7e7;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+h1 {
+    color: #d43f57;
+}
+
+.frase-romantica {
+    font-style: italic;
+    color: #7a1f33;
+}
+
+.timeline {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.timeline ul {
+    list-style: none;
+    padding: 0;
+}
+
+.timeline li {
+    padding: 10px;
+    background: #fff3f3;
+    margin: 5px 0;
+    border-radius: 5px;
+}
+
+.carta {
+    margin-top: 20px;
+    background: #ffebf0;
+    padding: 15px;
+    border-radius: 10px;
+}
